@@ -1,2 +1,2 @@
 # repo-with-all-github-examples
-5
+6
